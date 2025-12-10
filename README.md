@@ -1,1 +1,5 @@
-# snu_library_dataset
+# SNU Library Dataset
+
+## Coming Soon
+
+This project is currently under development. Please check back later for updates.
